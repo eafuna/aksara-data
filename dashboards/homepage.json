@@ -7,7 +7,7 @@
         "highlight": {
             "name": "highlight",
             "chart_type": "custom_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/homepage_main_callout.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/homepage_main_callout.parquet?ignoreCache=1",
             "data_as_of": "2023-09-18 23:59",
             "api_type": "static",
             "api_params": [],
@@ -24,7 +24,7 @@
         "timeseries": {
             "name": "timeseries",
             "chart_type": "timeseries_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/homepage_timeseries.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/homepage_timeseries.parquet?ignoreCache=1",
             "data_as_of": "2023-09-18 23:59",
             "api_type": "static",
             "api_params": [],
@@ -41,7 +41,7 @@
         "statistics": {
             "name": "statistics",
             "chart_type": "custom_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/homepage_timeseries_callout.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/homepage_timeseries_callout.parquet?ignoreCache=1",
             "data_as_of": "2023-09-18 23:59",
             "api_type": "static",
             "api_params": [],
@@ -59,7 +59,7 @@
         "table_summary": {
             "name": "table_summary",
             "chart_type": "metrics_table",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/homepage_metrics_table.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/homepage_metrics_table.parquet?ignoreCache=1",
             "data_as_of": "2023-09-18 23:59",
             "api_type": "static",
             "api_params": [],
@@ -79,7 +79,7 @@
         "metrics_stats": {
             "name": "metrics_stats",
             "chart_type": "custom_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/homepage_metrics_callout.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/homepage_metrics_callout.parquet?ignoreCache=1",
             "data_as_of": "2023-09-18 23:59",
             "api_type": "static",
             "api_params": [],

@@ -12,8 +12,8 @@
             "en": "This publication highlights the Performance of Wholesale & Retail Trade encompassing the Motor Vehicles, Wholesale Trade and Retail Trade sub-sectors.",
             "bm": "Penerbitan ini memaparkan Prestasi Perdagangan Borong & Runcit meliputi subsektor Kenderaan Bermotor, Perdagangan Borong dan Perdagangan Runcit."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/iowrt.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/iowrt.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/iowrt.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/iowrt.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/iowrt.metadata",
         "variables": [
             {

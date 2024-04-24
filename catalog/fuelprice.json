@@ -12,8 +12,8 @@
             "en": "This dataset presents the weekly retail price of RON95 petrol, RON97 petrol, and diesel in Malaysia. Since April 2017, the retail price of fuel in Malaysia has been set on a weekly basis using the Automatic Pricing Mechanism (APM). Prior to that, it changed at a monthly (or longer) frequency. The APM is designed to allow the government to monitor the effects of changes in global crude oil prices and adjust retail fuel prices to ensure the continued welfare of the rakyat.",
             "bm": "Data ini memaparkan harga runcit mingguan bagi petrol RON95, petrol RON97 dan diesel di Malaysia. Sejak April 2017, harga runcit petrol di Malaysia telah ditetapkan pada kadar mingguan dengan menggunakan formula Mekanisme Harga Automatik (APM). Sebelum itu, ia berubah pada kadar bulanan (atau kurang kerap lagi). Formula APM dikhususkan untuk memboleh kerajaan memantau kesan perubahan harga minyak mentah global dan mengambil langkah bersesuain bagi memasitikan kebajikan rakyat terus terpelihara."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/fuelprice.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/fuelprice.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/fuelprice.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/fuelprice.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/fuelprice.metadata",
         "variables": [
             {

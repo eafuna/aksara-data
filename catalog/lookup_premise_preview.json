@@ -12,10 +12,10 @@
             "en": "Lookup table, to be left-joined against premise code in the main PriceCatcher data.",
             "bm": "Jadual carian, untuk dipadankan (left-join) dengan kod premis (premise code) dalam dataset PriceCatcher utama."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-pricecatcher/lookup_premise.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-pricecatcher/lookup_premise.csv",
+        "link_parquet": "https://dosm-public-pricecatcher.s3.ap-southeast-1.amazonaws.com/lookup_premise.parquet",
+        "link_csv": "https://dosm-public-pricecatcher.s3.ap-southeast-1.amazonaws.com/lookup_premise.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-pricecatcher/lookup_premise.metadata",
-        "link_preview": "https://storage.googleapis.com/dosm-public-pricecatcher/lookup_premise.parquet?ignoreCache=1",
+        "link_preview": "https://dosm-public-pricecatcher.s3.ap-southeast-1.amazonaws.com/lookup_premise.parquet?ignoreCache=1",
         "variables": [
             {
                 "id": 0,

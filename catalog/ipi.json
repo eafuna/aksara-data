@@ -12,8 +12,8 @@
             "en": "The Industrial Production Index (IPI) publication is a monthly publication which covers three main sectors namely Mining, Manufacturing and Electricity which in line with the industrial definition in the International Recommendations for the Index of Industrial Production (IRIIP), 2010. ",
             "bm": "Penerbitan Indeks Pengeluaran Perindustrian (IPP) merupakan penerbitan bulanan yang meliputi tiga sektor utama iaitu Perlombongan, Pembuatan dan Elektrik selari dengan definisi perindustrian dalam International Recommendations for the Index of Industrial Production (IRIIP), 2010."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/ipi.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/ipi.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/ipi.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/ipi.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/ipi.metadata",
         "variables": [
             {

@@ -7,7 +7,7 @@
         "timeseries": {
             "name": "timeseries",
             "chart_type": "timeseries_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/moneymeasures_timeseries.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/moneymeasures_timeseries.parquet?ignoreCache=1",
             "data_as_of": "2023-05-31 23:59",
             "api_type": "static",
             "api_params": [],
@@ -33,7 +33,7 @@
         "statistics": {
             "name": "statistics",
             "chart_type": "custom_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/moneymeasures_timeseries_callout.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/moneymeasures_timeseries_callout.parquet?ignoreCache=1",
             "data_as_of": "2023-05-31 23:59",
             "api_type": "static",
             "api_params": [],
@@ -51,7 +51,7 @@
         "table_summary": {
             "name": "table_summary",
             "chart_type": "snapshot_chart",
-            "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/moneymeasures_table_summary.parquet?ignoreCache=1",
+            "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/moneymeasures_table_summary.parquet?ignoreCache=1",
             "data_as_of": "2023-05-31 23:59",
             "api_type": "static",
             "api_params": [],

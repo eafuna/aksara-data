@@ -7,7 +7,7 @@
       "jitter_chart" :  {
         "name": "jitter_chart",
         "chart_type": "jitter_chart",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_admin_jitter.parquet",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_admin_jitter.parquet",
         "data_as_of" : "2022-11-25 23:59",
         "api_type": "dynamic",
         "api_params": ["area-type"],
@@ -26,7 +26,7 @@
       "pyramid_chart" : {
         "name": "pyramid_chart",
         "chart_type": "pyramid_chart",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_admin_pyramid.parquet",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_admin_pyramid.parquet",
         "data_as_of" : "2022-11-25 23:59",
         "api_type": "dynamic",
         "api_params": ["area"],
@@ -58,7 +58,7 @@
       "bar_chart": {
         "name": "bar_chart",
         "chart_type": "bar_meter",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_admin_barmeter.parquet?ignoreCache=1",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_admin_barmeter.parquet?ignoreCache=1",
         "data_as_of" : "2022-11-25 23:59",
         "api_type": "dynamic",
         "api_params": ["area-type","area"],
@@ -84,7 +84,7 @@
       "bar_chart_callout": {
         "name": "bar_chart_callout",
         "chart_type": "bar_meter",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_admin_barmeter_callout.parquet?ignoreCache=1",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_admin_barmeter_callout.parquet?ignoreCache=1",
         "data_as_of" : "2022-11-25 23:59",
         "api_type": "dynamic",
         "api_params": ["area-type","area"],
@@ -110,7 +110,7 @@
       "choropleth_parlimen": {
         "name": "choropleth_parlimen",
         "chart_type": "choropleth_chart",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_electoral_choropleth_parlimen.parquet",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_electoral_choropleth_parlimen.parquet",
         "data_as_of" : "2020",
         "api_type": "static",
         "api_params": [],
@@ -122,7 +122,7 @@
       "choropleth_dun": {
         "name": "choropleth_dun",
         "chart_type": "choropleth_chart",
-        "chart_source": "https://storage.googleapis.com/dosm-public-dashboards/kawasanku_electoral_choropleth_dun.parquet",
+        "chart_source": "https://dosm-public-dashboards.s3.ap-southeast-1.amazonaws.com/kawasanku_electoral_choropleth_dun.parquet",
         "data_as_of" : "2020",
         "api_type": "static",
         "api_params": [],

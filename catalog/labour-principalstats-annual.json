@@ -12,8 +12,8 @@
             "en": "The annual Labour Force Report presents the statistics of labour force, employment and unemployment obtained from the Labour Force Survey (LFS).",
             "bm": "Laporan Tenaga Buruh tahunan membentangkan statistik berkaitan tenaga buruh, guna tenaga dan pengangguran yang diperoleh daripada Survei Tenaga Buruh (STB). "
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/labour-principalstats-annual.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/labour-principalstats-annual.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/labour-principalstats-annual.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/labour-principalstats-annual.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/labour-principalstats-annual.metadata",
         "variables": [
             {

@@ -12,8 +12,8 @@
             "en": "The publication of Producer Price Index (PPI) Local Production is a monthly publication that presents statistics covering five main sectors namely agriculture, forestry and fishing, mining, manufacturing, electricity and gas supply, and water supply. The PPI is compiled based on the data from the Producer Price Survey which is conducted on a monthly basis.",
             "bm": "Penerbitan Indeks Harga Pengeluar (IHPR) Pengeluaran Tempatan merupakan penerbitan bulanan yang memaparkan statistik meliputi lima sektor utama iaitu pertanian, perhutanan dan perikanan, perlombongan, pembuatan, bekalan elektrik dan gas, dan bekalan air. IHPR Pengeluaran Tempatan disusun berdasarkan data Survei Harga Pengeluar yang dilaksanakan pada setiap bulan."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/ppi.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/ppi.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/ppi.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/ppi.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/ppi.metadata",
         "variables": [
             {

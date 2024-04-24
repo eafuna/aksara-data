@@ -12,8 +12,8 @@
             "en": "The Malaysian Economic Indicators presents current economic information with the purpose of monitoring the economic situation of the country on a monthly basis. It consists of Leading, Coincident and Lagging indicators for Composite and Diffusion Indexes.",
             "bm": "Penerbitan Penunjuk Ekonomi Malaysia ini memberikan maklumat ekonomi semasa yang bertujuan untuk memantau kedudukan ekonomi Negara. Ia terdiri daripada Indeks Pelopor, Serentak dan Susulan bagi Indeks Komposit dan Indeks Difusi yang diterbitkan secara bulanan."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/economic-indicators.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/economic-indicators.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/economic-indicators.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/economic-indicators.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/economic-indicators.metadata",
         "variables": [
             {

@@ -12,8 +12,8 @@
             "en": "A dataset containing the rates of exchange of the Malaysian Ringgit vis-\u00e0-vis major trading partners.",
             "bm": "Dataset yang mengandungi kadar pertukaran ringgit Malaysia berbanding rakan dagang utama."
         },
-        "link_parquet": "https://storage.googleapis.com/dosm-public-economy/exchangerates-main.parquet",
-        "link_csv": "https://storage.googleapis.com/dosm-public-economy/exchangerates-main.csv",
+        "link_parquet": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/exchangerates-main.parquet",
+        "link_csv": "https://dosm-public-economy.s3.ap-southeast-1.amazonaws.com/exchangerates-main.csv",
         "link_metadata": "https://storage.googleapis.com/dosm-public-economy/exchangerates-main.metadata",
         "variables": [
             {
